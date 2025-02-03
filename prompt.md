@@ -8,4 +8,4 @@ Write an Obsidian plugin called `anglicize` that converts American English spell
 
 The plugin should be built using TypeScript and follow Obsidian's Plugin API standards. Use a simple dictionary lookup to handle common word conversions.
 
-See [[specs]] for detailed Specifications.
+See specs.md for detailed Specifications.
