@@ -7,3 +7,5 @@ Write an Obsidian plugin called `anglicize` that converts American English spell
 - Include a Cheeky Mode™ for excessive Britishisms.
 
 The plugin should be built using TypeScript and follow Obsidian's Plugin API standards. Use a simple dictionary lookup to handle common word conversions.
+
+See [[specs]] for detailed Specifications.
